@@ -1,0 +1,555 @@
+[
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502918736000,
+            "changeTime": 1502918736000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502918736000,
+            "changeTime": 1502918736000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "4bb2795f8df953d0b07952f95f4c8557b3bc010b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1502919025000,
+            "changeTime": 1502919025000,
+            "contentHash": "d51ddb04f6741e5f9d887f24d9d46bcbec546e60",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes/CustomerAndProspectAcctOpptCnt.cls",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes/CustomerAndProspectAcctOpptCnt.cls",
+            "isDirectory": false,
+            "size": 2311,
+            "modifiedTime": 1502919025000,
+            "changeTime": 1502919025000,
+            "contentHash": "f55e01038997d909d3e92352036cb2ee54e2a46c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes/CustomerAndProspectAcctOpptCnt.cls-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes/CustomerAndProspectAcctOpptCnt.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1502919025000,
+            "changeTime": 1502919025000,
+            "contentHash": "1ec90a3a4e6641a3f8f58190307afc9516c844ee",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes/CustomerAndProspectAcctOpptCntTest.cls",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes/CustomerAndProspectAcctOpptCntTest.cls",
+            "isDirectory": false,
+            "size": 3011,
+            "modifiedTime": 1502919025000,
+            "changeTime": 1502919025000,
+            "contentHash": "2ae508e32934c3910d702d96a710a1cfd134b462",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes/CustomerAndProspectAcctOpptCntTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/classes/CustomerAndProspectAcctOpptCntTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1502919025000,
+            "changeTime": 1502919025000,
+            "contentHash": "1ec90a3a4e6641a3f8f58190307afc9516c844ee",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502920305000,
+            "changeTime": 1502920305000,
+            "contentHash": "ff325cb88fd1a08d7f1faf3e0187331c07064241",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "9977ed16e7639a2a2960c4d8007ffde40fc1b501",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "965f51668b23e743bea23f97356e2688ac350af2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/Broker__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/Broker__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 968,
+            "modifiedTime": 1502919550000,
+            "changeTime": 1502919550000,
+            "contentHash": "525726f89d8f474340b5b1dd48be7dda9601d40f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/OVRID_PRIM_FIELD_OFC_ID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/OVRID_PRIM_FIELD_OFC_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 782,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "d7d2e56e08b21727aeae259dfd693d33be05ee0d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/PRIM_FIELD_OFC_NM__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/PRIM_FIELD_OFC_NM__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 660,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "4f90d2e101a9065f30fb2434978359c554736f30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/PRIM_SALE_REP_ID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/PRIM_SALE_REP_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 648,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "e3888c8593dad9d0e73c5553c80aa0ad43ca9dc3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/QUOTE_STAGE_BEGIN_DT__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/Opportunity/fields/QUOTE_STAGE_BEGIN_DT__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 566,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "66fed090fce9b99556ac00a249c781b16b47576e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "40e4626305e1eaa62a7c79a196138a5854023381",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/pages/CustomerAndProspectAcctOpportunities.page",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/pages/CustomerAndProspectAcctOpportunities.page",
+            "isDirectory": false,
+            "size": 1930,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "a13f44996a6896192e5c9c70c50da033c9283f2c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/pages/CustomerAndProspectAcctOpportunities.page-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/pages/CustomerAndProspectAcctOpportunities.page-meta.xml",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "85647509abd623308e36c7f4017253110d82b86f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502919026000,
+            "changeTime": 1502919026000,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 49539,
+            "modifiedTime": 1502920389000,
+            "changeTime": 1502920389000,
+            "contentHash": "707fde2613e27d6ada98d8d5736d0aebc181d6a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha",
+        {
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha",
+            "isDirectory": true,
+            "size": 408,
+            "modifiedTime": 1502919704000,
+            "changeTime": 1502919704000,
+            "contentHash": "845758deb740af02b7c0b07afefe0536d2d1d51e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "597809dbb71a36e84fa2195af5c9f0ee4226cc5f"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fieldSets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fieldSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "60bba1334bc22187bf03e6e14477977f43f5a67a"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "2d6b0c97f1bc45a0856639d80c68d30a6a8d8e51"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/User",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/User",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "d9661054a97871cc685f7493e3771c8b254fedc6"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/User/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/User/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "a190cb9622e2c899e7c6f65390fb3b926d9deae5"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/FIELD_OFC__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/FIELD_OFC__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2186,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "ed8a756f8bbaf8c28cf8f129590f6d54ba8949af"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fieldSets/Test_field_ofc.fieldSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fieldSets/Test_field_ofc.fieldSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1046,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "8a97e6e16ad22c8208ea7d8af5ea20e93262d8c6"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/ITQ_EMAIL_ADR__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/ITQ_EMAIL_ADR__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 385,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "7c23b282e26277e6c030fb6e0bf49a2d35172f67"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/MAIL_STOP_CD__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/MAIL_STOP_CD__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 532,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "8df5bd0cef3c07d63317bdf00afd21ec0b52cb54"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/QUOTE_QUEUE_NM__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/QUOTE_QUEUE_NM__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 415,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "cb63bf7b1e205ff35335162256f51ea2084f3c4c"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/REGN_NM__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/REGN_NM__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "639a3a7a51b00fefe630efacc45b0a45c2647917"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/UNUM_ID__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/fields/UNUM_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 396,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "bd15032a5c5c71639985a02078d2a84a168efe49"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/FIELD_OFC__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 679,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "5412d3860dec89ad8806640c2b96e9785682b6e2"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/User/User.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/User/User.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 103,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f"
+        }
+    ],
+    [
+        "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/User/fields/Sales_Office__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rlambert/Google Drive/Salesforce/Services/Customers/Unum/workspace/sfdx-unum/sfdx-unum-poc-alpha/force-app/main/default/objects/User/fields/Sales_Office__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 376,
+            "modifiedTime": 1502986136000,
+            "changeTime": 1502986136000,
+            "contentHash": "c3d49b9f6c81ea3426057a91721f14d34cf96843"
+        }
+    ]
+]
