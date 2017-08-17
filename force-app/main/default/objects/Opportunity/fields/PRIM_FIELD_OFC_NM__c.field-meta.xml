@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PRIM_FIELD_OFC_NM__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF(ISBLANK(OVRID_PRIM_FIELD_OFC_ID__c) = TRUE , Owner.Sales_Office__c , OVRID_PRIM_FIELD_OFC_ID__r.Name)</formula>
+    <inlineHelpText>Automatically populated based on field  user's mailstop, does not populate for Home Office users.</inlineHelpText>
+    <label>Primary Field Office</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

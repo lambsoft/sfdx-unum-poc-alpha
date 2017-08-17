@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>QUOTE_STAGE_BEGIN_DT__c</fullName>
+    <description>This field captures the date/time-stamp when the Opportunity reaches the "Quoting" stage for the first time.</description>
+    <externalId>false</externalId>
+    <label>Quote Stage Begin Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>DateTime</type>
+</CustomField>
