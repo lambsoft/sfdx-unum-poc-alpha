@@ -1,0 +1,8 @@
+{
+    "orgName": "Ryan Lambert Company",
+    "edition": "Developer",    
+    "adminEmail": "rlambert@salesforce.com",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
