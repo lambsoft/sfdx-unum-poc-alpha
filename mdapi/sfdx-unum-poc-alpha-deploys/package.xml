@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CustomerAndProspectAcctOpptCnt</members>
+        <members>CustomerAndProspectAcctOpptCntTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>CustomerAndProspectAcctOpportunities</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>Opportunity.Broker__c</members>
+        <members>Opportunity.OVRID_PRIM_FIELD_OFC_ID__c</members>
+        <members>Opportunity.PRIM_FIELD_OFC_NM__c</members>
+        <members>Opportunity.PRIM_SALE_REP_ID__c</members>
+        <members>Opportunity.QUOTE_STAGE_BEGIN_DT__c</members>
+        <members>User.Sales_Office__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>FIELD_OFC__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <version>40.0</version>
+</Package>
